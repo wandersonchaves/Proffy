@@ -1,7 +1,0 @@
-// 20200810101810
-// https://raw.githubusercontent.com/wandersonchaves/twitter-clone/master/.prettierrc
-
-{
-  "singleQuote": true,
-  "trailingComma": "es5"
-}
