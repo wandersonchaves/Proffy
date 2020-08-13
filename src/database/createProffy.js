@@ -13,7 +13,7 @@ module.exports = async function (
       "${proffyValue.name}",
       "${proffyValue.avatar}",
       "${proffyValue.whatsapp}",
-      "${proffyValue.bio}
+      "${proffyValue.bio}"
     );
   `);
 
@@ -27,9 +27,9 @@ module.exports = async function (
         cost,
         proffy_id
       ) VALUES (
-        "${classValue.subject},
-        "${classValue.cost},
-        "${proffy_id}
+        "${classValue.subject}",
+        "${classValue.cost}",
+        "${proffy_id}"
       );
   `);
 
